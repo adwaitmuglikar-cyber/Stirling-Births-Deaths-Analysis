@@ -128,10 +128,10 @@ Reveals Scotland’s shift from **positive** to **negative** natural change afte
 ## 🖼️ 5. Dashboard Previews
 
 #### 📊 Births, Deaths & Population Overview
-![Births & Deaths Dashboard](./Screenshots/births_deaths_population_insights.png)
+![Births & Deaths Dashboard](./Screenshots/Births,%20Deaths%20%26%20Population%20Insights.png)
 
 #### 📈 Trends & Key Findings (1991–2024)
-![Trends & Key Findings](./Screenshots/trends_key_findings_1991_2024.png)
+![Trends & Key Findings](./Screenshots/Trends%20%26%20Key%20Findings%20(1991%E2%80%932024).png)
 
 ---
 
